@@ -25,7 +25,7 @@
             const style = makeElement('link', [], {
                 rel: 'stylesheet',
                 type: 'text/css',
-                href: `embed.css`,
+                href: `https://github.com/vpukha/embedded-widget/blob/main/embed.css`,
                 'data-vendor': 'integromat-embed'
             });
             document.head.appendChild(style);
