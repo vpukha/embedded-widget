@@ -259,7 +259,7 @@
 <div class="integromat-embed-showmore-wrapper" style="display: none !important">
 <div>
     <div style="background: #ffe01b"> <img
-            src="https://www.make.com//en/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fqqlj6g4ee76j%2FappIcon-mailchimp%2F9977a104638a545084f141e2cadf72f6%2Fmailchimp.png&w=3840&q=90"
+            src="https://www.make.com/en/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fqqlj6g4ee76j%2FappIcon-mailchimp%2F9977a104638a545084f141e2cadf72f6%2Fmailchimp.png&w=3840&q=90"
             alt="Icon of app Mailchimp"> </div>
     <div style="background: #00a5ff"> <img
             src="https://www.make.com/en/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fqqlj6g4ee76j%2FappIcon-clicksend%2F167e22b2317ee07b055a05d5181332e8%2Fclicksend.png&w=3840&q=90"
