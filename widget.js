@@ -24,7 +24,7 @@
         if (!document.querySelector('link[data-vendor="integromat-embed"]')) {
             const style = makeElement('link', [], {
                 rel: 'stylesheet',
-                type: 'text/css',
+                type: 'text/css',                
                 href: `https://cdn.jsdelivr.net/gh/vpukha/embedded-widget@main/embed.css`,
                 'data-vendor': 'integromat-embed'
             });
@@ -123,20 +123,22 @@
 </div>
 <div class="integromat-embed-showmore-wrapper" style="">
 <div>
-    <div style="background: #00a5ff"> <img
-            src="https://www.make.com/en/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fqqlj6g4ee76j%2FappIcon-clicksend%2F167e22b2317ee07b055a05d5181332e8%2Fclicksend.png&w=3840&q=90"
-            alt="Icon of app ClickSend SMS"> </div>
     <div style="background: #179cde"> <img
             src="https://www.make.com/en/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fqqlj6g4ee76j%2FappIcon-telegram%2F8e04aab1af66a01a27597c5940e83a6f%2Ftelegram.png&w=3840&q=90"
             alt="Icon of app Telegram Bot"> </div>
+    <div style="background: #00a5ff"> <img
+            src="https://www.make.com/en/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fqqlj6g4ee76j%2FappIcon-clicksend%2F167e22b2317ee07b055a05d5181332e8%2Fclicksend.png&w=3840&q=90"
+            alt="Icon of app ClickSend SMS"> </div>
+
 </div>
 <div>
-    <div>Receive incoming ClickSend SMS messages in Telegram</div>
-    <div>ClickSend SMS + Telegram Bot</div>
+    <div>Send ClickSend SMS messages for new Telegram messages
+    </div>
+    <div>Telegram Bot + ClickSend SMS</div>
 </div>
 <div>
     <div> <a class="integromat-embed-utm-link"
-            href="https://www.make.com/en/templates/2752-receive-incoming-clicksend-sms-messages-in-telegram"
+            href="https://www.make.com/en/templates/2755-send-clicksend-sms-messages-for-new-telegram-messages"
             target="_blank" rel="noopener noreferrer">Use</a> </div>
 </div>
 </div>
@@ -256,22 +258,22 @@
 </div>
 <div class="integromat-embed-showmore-wrapper" style="display: none !important">
 <div>
-    <div style="background: #179cde"> <img
-            src="https://www.make.com/en/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fqqlj6g4ee76j%2FappIcon-telegram%2F8e04aab1af66a01a27597c5940e83a6f%2Ftelegram.png&w=3840&q=90"
-            alt="Icon of app Telegram Bot"> </div>
+    <div style="background: #ffe01b"> <img
+            src="https://www.make.com//en/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fqqlj6g4ee76j%2FappIcon-mailchimp%2F9977a104638a545084f141e2cadf72f6%2Fmailchimp.png&w=3840&q=90"
+            alt="Icon of app Mailchimp"> </div>
     <div style="background: #00a5ff"> <img
             src="https://www.make.com/en/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fqqlj6g4ee76j%2FappIcon-clicksend%2F167e22b2317ee07b055a05d5181332e8%2Fclicksend.png&w=3840&q=90"
             alt="Icon of app ClickSend SMS"> </div>
 
 </div>
 <div>
-    <div>Send ClickSend SMS messages for new Telegram messages
+    <div>Add Mailchimp subscribers to ClickSend SMS
     </div>
-    <div>Telegram Bot + ClickSend SMS</div>
+    <div>Mailchimp + ClickSend SMS</div>
 </div>
 <div>
     <div> <a class="integromat-embed-utm-link"
-            href="https://www.make.com/en/templates/2755-send-clicksend-sms-messages-for-new-telegram-messages"
+            href="https://www.make.com/en/templates/6688-add-mailchimp-subscribers-to-clicksend-sms"
             target="_blank" rel="noopener noreferrer">Use</a> </div>
 </div>
 </div>
